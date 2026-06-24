@@ -1,5 +1,5 @@
 <!-- Main Heading centered with LinkedIn profile link -->
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/dhruv-soni-6b2338230">Dhruv</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/dhruv-soni-6b2338230">Vallary Stacy</a> </h1>
 
 <!-- Social Links centered under the header -->
 <p align="center">
@@ -72,15 +72,15 @@
 <!-- GitHub Stats Section with alignment centered -->
 ## 📊 GitHub Stats:
 <div align="center">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruv8433&theme=radical">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhruv8433&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhruv8433&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhruv8433&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhruv8433&theme=radical&utcOffset=8">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vallarystacy&theme=radical">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vallarystacy&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vallarystacy&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vallarystacy3&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vallarystacy&theme=radical&utcOffset=8">
 
   <!-- Additional GitHub Readme Stats -->
-  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=dhruv8433&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="dhruv8433" />
-  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv8433&theme=radical" alt="dhruv8433" />
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=vallarystacy&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="vallarystacy" />
+  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=vallarystacy&theme=radical" alt="vallarystacy" />
 
   <!-- Optional decorative SVG -->
   <img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" />
@@ -112,7 +112,7 @@
 <!-- GitHub Trophies Section -->
 <!-- ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruv8433&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vallarystacy&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>-->
 
 <!-- <br /> -->
@@ -120,6 +120,6 @@
 <!-- Visitor Count Badge -->
 <!-- <div align="start">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=dhruv8433&icon=1&color=0" alt="Visitor Count" />
+    <img src="https://visitcount.itsvg.in/api?id=vallarystacy&icon=1&color=0" alt="Visitor Count" />
   </a>
 </div> -->
